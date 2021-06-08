@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tin Tiêu Dùng &#8211; YN Cosmetics</title>
+	<atom:link href="http://localhost/wp/category/tin-tuc/tin-tieu-dung/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranthingoanh.github.io/mywordpress</link>
+	<description>Be natural, Be beautiful, Be you</description>
+	<lastBuildDate>Sat, 05 Jun 2021 09:13:59 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+</channel>
+</rss>
